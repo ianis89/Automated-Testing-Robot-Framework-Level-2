@@ -1,7 +1,7 @@
 # Automated-Testing-Robot-Framework-Level-2
 
 
-# Along this project I gathered the following knowledge:
+Along this project I gathered the following knowledge:
 
 Use the command line to execute Robot Framework test suites with greater control
 
